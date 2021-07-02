@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Nghi à!',
-    introDesc: `Trái đất vốn lạ thường
+    introDesc: `trái đất vốn lạ thường
     Mà sao Nghi cứ đi nhầm đường
     Lạc vào tim tui lẻ loi
     Đằng sau chữ yêu đây là thương`,
